@@ -17,7 +17,7 @@
 
 红蓝 Agent 属于正在开发仓库的 Codex、Claude Code 或其他开发 Harness。
 
-被开发系统不需要实现红方、蓝方、任务包、worktree 或合流调度。即使被开发系统本身也是多 Agent 系统，其中的 Agent、Session、Run、subagent 和工作区也不能应该与开发红蓝使用的角色和状态混用。
+被开发系统不需要实现红方、蓝方、任务包、worktree 或合流调度。即使被开发系统本身也是多 Agent 系统，其中的 Agent、Session、Run、subagent 和工作区也不应该与开发红蓝使用的角色和状态混用。
 
 
 ## 成立条件
